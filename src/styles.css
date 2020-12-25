@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.imageContainer {
+  position: relative;
+}
+.images {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  border-right: 8px solid #0492c2;
+}
+.quote-icon {
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 36%;
+  border: 1px solid #0492c2;
+  background-color: #0492c2;
+  border-radius: 100px;
+  padding: 3px;
+}
+.btn {
+  color: #0492c2;
+  background: transparent;
+  border: none;
+  font-size: 23px;
+}
+.random {
+  margin-top: 10px;
+  background-color: #0492c2;
+  color: white;
+  border: 1px solid #0492c2;
+  padding: 10px 40px;
+  font-size: 23px;
+}
+.profiles {
+  padding: 10px;
+  width: 400px;
+  margin: 40px auto;
+  box-shadow: 2px 8px 12px 8px grey;
+}
